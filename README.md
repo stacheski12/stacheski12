@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+seja bim-vinda ao perfil
 <!--
 **stacheski12/stacheski12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![https://tenor.com/pt-BR/view/back-to-school-glitter-gif-3964497006499378436]
